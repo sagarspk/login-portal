@@ -1,5 +1,5 @@
-import Login from "./Login.js"
-import Register from "./Register.js"
+import Login from "./Login"
+import Register from "./Register"
 
 function Home() {
   return (
